@@ -1,10 +1,7 @@
 ### Helo, Welcome to my Profile 👋
 
-<!--
-**MartinDala/MartinDala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-My name is Martin Dala and...:
 
-![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-dala-337ba01b4/)
+![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
