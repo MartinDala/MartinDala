@@ -9,7 +9,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&link=https://www.twitter.com/in/martin-dala-337ba01b4/)](https://www.twitter.com/in/martin-dala-337ba01b4/)
 
-[![Youtube Badge](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCwL_JFTihIfc33P3oEZ-WfQ?disable_polymer=true&nv=1)]https://www.youtube.com/channel/UCwL_JFTihIfc33P3oEZ-WfQ?disable_polymer=true&nv=1)
+[![Youtube Badge](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCwL_JFTihIfc33P3oEZ-WfQ?disable_polymer=true&nv=1)](https://www.youtube.com/channel/UCwL_JFTihIfc33P3oEZ-WfQ?disable_polymer=true&nv=1)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
