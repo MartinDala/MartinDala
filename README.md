@@ -1,9 +1,8 @@
 ### Helo, Welcome to my Profile 👋
-
+## My name is Martin Dala
+# I'am Software Developer
 ---
-[!
-
-[Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/martindala2)](https://www.facebook.com/martindala2)
+[![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/martindala2)](https://www.facebook.com/martindala2)
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/martin-dala-337ba01b4/)](https://www.linkedin.com/in/martin-dala-337ba01b4/)
 
