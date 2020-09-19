@@ -1,9 +1,18 @@
 ### Helo, Welcome to my Profile 👋
 ## My name is Martin Dala - I'am Software Developer
 
-Olá! Sou Martinho Tomás Dala, conhecido simplesmente por #Martin Dala, sou apaixonado pela técnologia desde cedo, hoje sou programador web fullstack, e estou sempre procurando formas de levar mais álem minha carreira como desenvolvedor.
+Olá! Sou Martinho Tomás Dala, conhecido simplesmente por #Martin Dala, 
+sou apaixonado pela técnologia desde cedo, hoje sou programador web fullstack,
+e estou sempre procurando formas de levar mais álem minha carreira como desenvolvedor.
 
-Saiba mais sobre mim: devmoderno.github.io
+Saiba mais sobre mim: www.devmoderno.github.i
+
+Meus hobbies:
+😎👍😊🤞
+🖥Informática,Tecnólogias
+🎥🎬Filmes e Séries
+😎🖥Programação
+
 
 ![MartinDala GitHub Stats](https://github-readme-stats.vercel.app/api?username=martindala&show_icons=true)
 ---
