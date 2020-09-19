@@ -1,6 +1,8 @@
 ### Helo, Welcome to my Profile 👋
 ## My name is Martin Dala
 # I'am Software Developer
+
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=martindala&show_icons=true)
 ---
 [![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/martindala2)](https://www.facebook.com/martindala2)
 
