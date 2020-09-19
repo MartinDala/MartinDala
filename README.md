@@ -7,11 +7,11 @@ e estou sempre procurando formas de levar mais álem minha carreira como desenvo
 
 Saiba mais sobre mim: www.devmoderno.github.i
 
-Meus hobbies:
-😎👍😊🤞
-🖥Informática,Tecnólogias
-🎥🎬Filmes e Séries
-😎🖥Programação
+Meus hobbies:,
+😎👍😊🤞,
+🖥Informática,Tecnólogias,
+🎥🎬Filmes e Séries,
+😎🖥Programação,
 
 
 ![MartinDala GitHub Stats](https://github-readme-stats.vercel.app/api?username=martindala&show_icons=true)
