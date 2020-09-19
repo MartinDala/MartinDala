@@ -1,7 +1,7 @@
 ### Helo, Welcome to my Profile 👋
 ## My name is Martin Dala - I'am Software Developer
 
-Olá! Sou Martinho Tomás Dala, conhecido simplesmente por #Martin Dala, 
+Olá! Sou Martinho Tomás Dala, conhecido simplesmente por #Martin Dala<br>, 
 sou apaixonado pela técnologia desde cedo, hoje sou programador web fullstack,
 e estou sempre procurando formas de levar mais álem minha carreira como desenvolvedor.
 
