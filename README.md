@@ -5,7 +5,7 @@ Olá! Sou Martinho Tomás Dala, conhecido simplesmente por #Martin Dala<br>,
 sou apaixonado pela técnologia desde cedo, hoje sou programador web fullstack<br>
 e estou sempre procurando formas de levar mais álem minha carreira como desenvolvedor.
 
-Saiba mais sobre mim: www.devmoderno.github.i
+Saiba mais sobre mim: www.devmoderno.github.io
 
 Meus hobbies:<br>
 😎👍😊🤞<br>
