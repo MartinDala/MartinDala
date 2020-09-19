@@ -23,8 +23,10 @@ Meus hobbies:<br>
 
 [![Youtube Badge](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCwL_JFTihIfc33P3oEZ-WfQ?disable_polymer=true&nv=1)](https://www.youtube.com/channel/UCwL_JFTihIfc33P3oEZ-WfQ?disable_polymer=true&nv=1)
 
-## Comunidade:
-CEO E Community Builder na: Community Dev Angola[![(https://github.com/Community-Dev-Angola)]
+## Organizações e Comunidade:
+CEO E Community Builder na:<br>
+❤✔😎🖥
+Community Dev Angola[![(https://github.com/Community-Dev-Angola)]
 
 ## Linguagens e Ferramentas:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
