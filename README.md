@@ -1,10 +1,10 @@
 <h1>Hey there, I'm <a  href="https://github.com/MartinDala/">Martin Dala </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-- 🛠 I am currently working on my portfolio and resume
-- 🌴 I am currently perfecting my craft
+- 🛠 I am currently working on Web and Mobile Development and Open Source Contributions
+- 🌴 I am currently learning Kotlin
 - 🤝 I am looking to collaborate on any open source project
-- 📧 How to reach me: txhakli@gmail.com
-- 😍 Saiba mais: https://martindala.github.io/DevModerno/
+- 📧 How to reach me: martindala40@gmail.com
+- 😍 More: https://martindala.github.io/DevModerno/
 
 <img src="https://github-readme-stats.vercel.app/api?username=martindala&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 
