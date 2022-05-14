@@ -26,7 +26,7 @@ class MartinDala:
 
 
 if __name__ == '__main__':
-    me = RafnixG()
+    me = MartinDala()
 
 
 ```
