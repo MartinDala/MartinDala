@@ -4,17 +4,18 @@
 class RafnixG:
 
     def __init__(self):
-        self.username = 'rafnixg'
-        self.name = 'Rafnix Guzmán'
-        self.web = 'https://rafnixg.dev'
-        self.twitter = '@rafnixg'
+        self.username = 'MartinDala'
+        self.name = 'Martin Dala'
+        self.web = 'www.github.martindala/DevModerno'
+        self.twitter = '@martindala.dev'
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap', 'TailWind'],
-            'backend': ['Python', 'PHP', 'Flask', 'Django', 'Laravel', 'NodeJS', 'Odoo'],
-            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'devops': ['Docker', 'Nginx', 'Jenkins', 'GitHub Actions', 'AWS', 'Heroku'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Redis', 'Celery'],
-            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
+            'mobile': ['Flutter', 'Dart', 'Kotlin', 'React Native'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Saas', 'Boostrap', 'TailWindCSS'],
+            'backend': ['PHP', 'Kotlin', 'Laravel', 'NodeJS'],
+            'database': ['PostgreSQL', 'MySQL', 'SQLite', 'MongoDB'],
+            'devops': ['Docker', 'Nginx', 'GitHub Actions', 'AWS', 'Heroku'],
+            'tools': ['GIT', 'GitHub', 'Figma', 'Scrum', 'Photoshop', 'Wordpress CMS', 'WLS', 'Celery'],
+            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'Clean Code' , 'Clean Architecture']
         }
         self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
 
