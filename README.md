@@ -1,5 +1,10 @@
 <h1>Hey there, I'm <a  href="https://github.com/MartinDala/">Martin Dala </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
+- 🛠 I am currently working on my portfolio and resume
+- 🌴 I am currently perfecting my craft
+- 🤝 I am looking to collaborate on any open source project
+- 📧 How to reach me: txhakli@gmail.com
+- 
 Olá! Sou Martinho Tomás Dala, conhecido simplesmente por #Martin Dala<br>, 
 sou apaixonado pela técnologia desde cedo, hoje sou programador web fullstack<br>
 e estou sempre procurando formas de levar mais álem minha carreira como desenvolvedor.
