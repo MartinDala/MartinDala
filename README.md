@@ -7,15 +7,17 @@ class RafnixG:
         self.username = 'MartinDala'
         self.name = 'Martin Dala'
         self.web = 'www.github.martindala/DevModerno'
-        self.twitter = '@martindala.dev'
+        self.twitter = '@martindala_dev'
         self.code = {
             'mobile': ['Flutter', 'Dart', 'Kotlin', 'React Native'],
             'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Saas', 'Boostrap', 'TailWindCSS'],
-            'backend': ['PHP', 'Kotlin', 'Laravel', 'NodeJS'],
+            'backend': ['PHP', 'Kotlin', 'Laravel', 'NodeJS' ,'Codenigter 4'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite', 'MongoDB'],
             'devops': ['Docker', 'Nginx', 'GitHub Actions', 'AWS', 'Heroku'],
-            'tools': ['GIT', 'GitHub', 'Figma', 'Scrum', 'Photoshop', 'Wordpress CMS', 'WLS', 'Celery'],
+            'tools': ['GIT', 'GitHub', 'Figma', 'OutSystems', 'Photoshop', 'Wordpress CMS', 'WLS', 'Celery'],
             'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'Clean Code' , 'Clean Architecture']
+            'studying': ['Kotlin', 'NodeJS', 'SCRUM', 'SOLID', 'Clean Code' , 'Clean Architecture']
+            
         }
         self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
 
