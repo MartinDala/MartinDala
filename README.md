@@ -7,6 +7,7 @@
 - 😍 Saiba mais: https://martindala.github.io/DevModerno/
 
 ![MartinDala GitHub Stats](https://github-readme-stats.vercel.app/api?username=martindala&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=martindala&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 
 ## Linguagens e Ferramentas:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
