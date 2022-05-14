@@ -6,7 +6,6 @@
 - 📧 How to reach me: txhakli@gmail.com
 - 😍 Saiba mais: https://martindala.github.io/DevModerno/
 
-![MartinDala GitHub Stats](https://github-readme-stats.vercel.app/api?username=martindala&show_icons=true)
 <img src="https://github-readme-stats.vercel.app/api?username=martindala&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 
 ## Linguagens e Ferramentas:
