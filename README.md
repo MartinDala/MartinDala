@@ -1,7 +1,4 @@
-<h1>Hey there, I'm <a  href="https://github.com/tanyagupta0201/">Tanya Gupta </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-
-### Helo, Welcome to my Profile 👋
-## My name is Martin Dala - I'am Software Developer
+<h1>Hey there, I'm <a  href="https://github.com/MartinDala/">Martin Dala </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 Olá! Sou Martinho Tomás Dala, conhecido simplesmente por #Martin Dala<br>, 
 sou apaixonado pela técnologia desde cedo, hoje sou programador web fullstack<br>
