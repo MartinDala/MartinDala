@@ -15,7 +15,7 @@ class MartinDala:
             'database': ['PostgreSQL', 'MySQL', 'SQLite', 'MongoDB'],
             'devops': ['Docker', 'Nginx', 'GitHub Actions', 'AWS', 'Heroku'],
             'tools': ['GIT', 'GitHub', 'Figma', 'OutSystems', 'Photoshop', 'Wordpress CMS', 'WLS', 'Celery'],
-            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'Clean Code' , 'Clean Architecture']
+            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'Clean Code' , 'Clean Architecture'],
             'studying': ['Kotlin', 'NodeJS', 'SCRUM', 'SOLID', 'Clean Code' , 'Clean Architecture']
             
         }
