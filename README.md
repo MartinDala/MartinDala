@@ -1,4 +1,4 @@
-<h1>Hey there, I'm <a  href="https://github.com/MartinDala/">Martin Dala </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hey there, I'm <a  href="https://github.com/MartinDala/">Martin Dala </a> </h1>
 
 ```python
 class MartinDala:
