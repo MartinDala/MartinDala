@@ -13,6 +13,8 @@
 
 ##### Let's change the world with lines of code
 
+
+<details>
 <summary>About Open Source </summary>
 
 🚀 Some of my main projects:
@@ -27,3 +29,4 @@
 👀 [Get More ...](https://github.com/sy-records)
 
 </details>
+
