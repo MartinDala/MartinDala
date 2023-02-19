@@ -12,3 +12,5 @@
 ![SWIFT](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift)
 
 ##### Let's change the world with lines of code
+
+[![Windard's github stats](https://github-readme-stats.vercel.app/api?username=windard&show_icons=true)](https://github.com/martindala)
