@@ -11,8 +11,8 @@
 
 ##### Stacks I use
 
-![FLUTTER](https://img.shields.io/badge/-C-000000?style=flat&logo=flutter)
-![KOTLIN](https://img.shields.io/badge/-C++-000000?style=flat&logo=kotlin)
-![SWIFT](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=swift)
+![FLUTTER](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
+![KOTLIN](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
+![SWIFT](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift)
 
 ##### Let's change the world with lines of code
