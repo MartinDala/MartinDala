@@ -11,15 +11,17 @@
 ![KOTLIN](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
 ![SWIFT](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift)
 
-##### Let's change the world with lines of code
-
-
 <details>
-<summary>About Open Source </summary>
+<summary> 🧿 About Open Source </summary>
 
 🚀 Some of my main projects:
 
 - [Africel]([https://github.com/simple-swoole/simps](https://github.com/MartinDala/Africell_App)) - A clone of the operator's Africel app
 
 </details>
+
+##### Let's change the world with lines of code
+
+
+
 
