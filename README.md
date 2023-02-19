@@ -13,9 +13,10 @@
 
 ##### Languages I use
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=flutter)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=kotlin)
-![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=swift)
+![FLUTTER](https://img.shields.io/badge/-C-000000?style=flat&logo=flutter)
+![KOTLIN](https://img.shields.io/badge/-C++-000000?style=flat&logo=kotlin)
+![SWIFT](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=swift)
+![REACT NATIVE](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=reactnative)
 
 ##### Some of the technologies I have worked with
 
