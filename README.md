@@ -5,10 +5,6 @@
 - :speech_balloon: Ask me about mobile, flutter, full-stack, web, or literally anything!
 - :mailbox: You can reach me with the links below
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martindala40@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martindala/)
-
-
 ##### Stacks I use
 
 ![FLUTTER](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
