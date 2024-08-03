@@ -1,4 +1,4 @@
-##### Hi, I'm Martin Dala:
+#### Hi 👋 My name is Martin Dala:
 
 - 🎓Studying Systems Analysis and Development at UNICID - Brazil
 - :test_tube: Creating content every week about technology and programming for youtube and other media
